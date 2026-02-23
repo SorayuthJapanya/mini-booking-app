@@ -20,7 +20,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone "https://github.com/SorayuthJapanya/mini-booking-app.gi"
 cd mini-booking-app
 ```
 
